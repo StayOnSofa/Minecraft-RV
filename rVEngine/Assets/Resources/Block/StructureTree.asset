@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3a99c623bc44741b0356a9cd6a2a86, type: 3}
+  m_Name: StructureTree
+  m_EditorClassIdentifier: 
+  RegisterTitle: StructureTree
+  Title: StructureTree
+  textureType: 0
+  IsHasCustomMesh: 0
+  MainTexture: {fileID: 0}
+  TopTexture: {fileID: 0}
+  DownTexture: {fileID: 0}
+  LeftTexture: {fileID: 0}
+  RightTexture: {fileID: 0}
+  BackTexture: {fileID: 0}
+  ForwardTexture: {fileID: 0}
+  CustomMesh: {fileID: 0}

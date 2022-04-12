@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e6672ea4ec67e4f9ec88160bb51b32, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  RegisterTitle: Grass
+  Title: Grass
+  textureType: 2
+  IsHasCustomMesh: 0
+  MainTexture: {fileID: 0}
+  TopTexture: {fileID: 2800000, guid: 43a0a567a82532249a0a8836c0bfc486, type: 3}
+  DownTexture: {fileID: 2800000, guid: 928f2998ce5acdb4cbc0280eb83524f8, type: 3}
+  LeftTexture: {fileID: 2800000, guid: 17279cca7bf4db048a347b407a92ff18, type: 3}
+  RightTexture: {fileID: 2800000, guid: 17279cca7bf4db048a347b407a92ff18, type: 3}
+  BackTexture: {fileID: 2800000, guid: 17279cca7bf4db048a347b407a92ff18, type: 3}
+  ForwardTexture: {fileID: 2800000, guid: 17279cca7bf4db048a347b407a92ff18, type: 3}
+  CustomMesh: {fileID: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e6672ea4ec67e4f9ec88160bb51b32, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  RegisterTitle: Carrot
+  Title: Carrot
+  textureType: 1
+  IsHasCustomMesh: 1
+  MainTexture: {fileID: 2800000, guid: c183b2b720db09440b0f126cfb0a413d, type: 3}
+  TopTexture: {fileID: 0}
+  DownTexture: {fileID: 0}
+  LeftTexture: {fileID: 0}
+  RightTexture: {fileID: 0}
+  BackTexture: {fileID: 0}
+  ForwardTexture: {fileID: 0}
+  IsCollided: 0
+  PointerSize: {x: 0.53, y: 0.5, z: 0.5}
+  PointerPosition: {x: 0, y: -0.32, z: 0}
+  CustomMesh: {fileID: -2432090755550338912, guid: 316b3eed51d2e9e49956cb5a094209e7, type: 3}

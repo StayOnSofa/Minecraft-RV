@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5341d57cacb2c234e89888725a603315, type: 3}
+  m_Name: CarrotSeed
+  m_EditorClassIdentifier: 
+  RegisterTitle: CarrotSeed
+  Title: CarrotSeed
+  textureType: 1
+  IsHasCustomMesh: 1
+  MainTexture: {fileID: 2800000, guid: 34f2927f3c65b0a47b0b8c1af6476d5f, type: 3}
+  TopTexture: {fileID: 0}
+  DownTexture: {fileID: 0}
+  LeftTexture: {fileID: 0}
+  RightTexture: {fileID: 0}
+  BackTexture: {fileID: 0}
+  ForwardTexture: {fileID: 0}
+  IsCollided: 0
+  PointerSize: {x: 0.53, y: 0.5, z: 0.5}
+  PointerPosition: {x: 0, y: -0.32, z: 0}
+  CustomMesh: {fileID: -2432090755550338912, guid: b9ef03cd3ccecfa45b0a1a23e71dd5a4, type: 3}
+  _blockSegments:
+  - {fileID: 11400000, guid: a0a2280c595d2504b8963dccdaef4cd1, type: 2}
+  - {fileID: 11400000, guid: 17ba3cae5cb48ee478b08c9488499598, type: 2}
+  _lastStateBlock: {fileID: 11400000, guid: 0b9cb5695183e4c4eab3b5bd18eb6ed7, type: 2}
+  _procentSegmentGrow: 10
