@@ -1,4 +1,4 @@
-# Minecraft-RV
+# Minecraft-RV (LEGACY)
 Minecraft on Unity (RVEngine)
 
 Abandoned project on unity, now I'm at the stage of reworking the code for a new project with multiplayer implementation "Grinder"
